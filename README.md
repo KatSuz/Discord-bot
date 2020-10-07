@@ -1,9 +1,6 @@
-# Discord-bot
+**About**
 
-This is my first bot
-Clone it with `git clone`
+---
 
-
-# Commands 
-
+Kimi is a simple bot 
 >Avatar
